@@ -1,0 +1,5 @@
+{
+    "scss/at-function-named-arguments": ["always", {
+        "ignore": ["single-argument"]
+    }]
+}

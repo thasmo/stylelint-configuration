@@ -1,0 +1,6 @@
+{
+    "scss/dollar-variable-empty-line-before": ["always", {
+        "except": ["first-nested", "after-comment", "after-dollar-variable"],
+        "ignore": ["after-comment", "inside-single-line-block"]
+    }]
+}

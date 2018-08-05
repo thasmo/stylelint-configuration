@@ -1,0 +1,5 @@
+{
+    "custom-property-empty-line-before": ["always", {
+        "except": ["after-comment", "after-custom-property", "first-nested"]
+    }]
+}
